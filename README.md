@@ -19,7 +19,7 @@ This repo has the links of my prsentations and examples of the talk and codelab 
 - [Azure Developer](https://www.microsoft.com/en-us/learning/exam-az-203.aspx)
 
 ## :page_with_curl: Documentation
-- [Azure Documentation] (https://docs.microsoft.com/en-in/azure/)
+- [Azure Documentation](https://docs.microsoft.com/en-in/azure/)
 
 ## :heart: Questions?
 
