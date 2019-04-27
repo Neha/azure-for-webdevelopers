@@ -14,9 +14,9 @@ This repo has the links of my prsentations and examples of the talk and codelab 
 
 ## :blue_book: Certifications
 
-- [Azure Fundamentals] (https://www.microsoft.com/en-us/learning/exam-az-900.aspx)
-- [Azure Developer Associate] (https://www.microsoft.com/en-us/learning/azure-developer.aspx)
-- [Azure Developer] (https://www.microsoft.com/en-us/learning/exam-az-203.aspx)
+- [Azure Fundamentals](https://www.microsoft.com/en-us/learning/exam-az-900.aspx)
+- [Azure Developer Associate](https://www.microsoft.com/en-us/learning/azure-developer.aspx)
+- [Azure Developer](https://www.microsoft.com/en-us/learning/exam-az-203.aspx)
 
 ## :page_with_curl: Documentation
 - [Azure Documentation] (https://docs.microsoft.com/en-in/azure/)
