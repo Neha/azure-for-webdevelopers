@@ -10,7 +10,7 @@ Event Link :
 
 ## Presentation link
 
-Global Azure Bootcamp,Begaluru[https://docs.google.com/presentation/d/1BptiY1O4whqXrahiPOteKSWo36Np1tCcj612Mf2bQHk/edit?usp=sharing]
+[Global Azure Bootcamp,Begaluru(https://docs.google.com/presentation/d/1BptiY1O4whqXrahiPOteKSWo36Np1tCcj612Mf2bQHk/edit?usp=sharing)
 
 ## Questions?
 
