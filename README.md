@@ -21,6 +21,12 @@ This repo has the links of my prsentations and examples of the talk and codelab 
 ## :page_with_curl: Documentation
 - [Azure Documentation](https://docs.microsoft.com/en-in/azure/)
 
+## Azure for Web Developers - codelab , Delhi/NCR
+
+  - :date: Date of event : 4th May 2019
+  - :pushpin: Location : TBD
+  - :computer: Event Link : [Site](https://www.meetup.com/jslovers/events/259954733/)
+
 ## :heart: Questions?
 
 Reach to nsharma215@gmail.com
