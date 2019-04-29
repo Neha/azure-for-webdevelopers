@@ -1,6 +1,6 @@
 # :fire: :zap: Azure-for-Web-Developers
 
-This repo has the links of my prsentations and examples of the talk and codelab on "Azure for Web Developers".
+This repo has the links of my presentation and examples of the talk and codelab on "Azure for Web Developers".
 
 ## Global Azure Bootcamp 2019, Bengaluru.
 
