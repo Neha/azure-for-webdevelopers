@@ -37,6 +37,14 @@ This repo has the links of my presentation and examples of the talk and codelab 
 - :pushpin: Location : 91Springboard, Noida
 - :computer: Event Link : [Site](https://www.meetup.com/jslovers/events/259954733/)
 
+## :golf: Content
+
+- Azure Storage
+- Azure Notiifications
+- Azure Functions
+- Azure Deployments
+- Azure CosmoDB
+
 ## :heart: Questions?
 
 Reach to nsharma215@gmail.com
