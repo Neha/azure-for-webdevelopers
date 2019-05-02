@@ -37,3 +37,7 @@ To be updated
 1. Go to the container
 2. Click on the uploaded data
 3. Copy the URL
+
+## Why pick Azure storage over CosmoDB?
+
+Storage is cheaper than CosmoDB.
